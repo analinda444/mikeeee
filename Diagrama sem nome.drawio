@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T12:38:19.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.2" etag="e1vTkl_4cvJ3fByourve" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T12:42:54.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="H8PIEvdOT2wYCSrQlqUi" version="22.0.2" type="github">
   <diagram name="Página-1" id="lWA5ySZ2axE2pmVUrHKg">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EalEKPgIYz5ROMsFS7Vn-1" value="guarda&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-100" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EalEKPgIYz5ROMsFS7Vn-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-180" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EalEKPgIYz5ROMsFS7Vn-9" value="Fica com as chaves na guarita" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="-160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EalEKPgIYz5ROMsFS7Vn-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EalEKPgIYz5ROMsFS7Vn-10" target="EalEKPgIYz5ROMsFS7Vn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EalEKPgIYz5ROMsFS7Vn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EalEKPgIYz5ROMsFS7Vn-10" target="EalEKPgIYz5ROMsFS7Vn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EalEKPgIYz5ROMsFS7Vn-10" value="monitor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-30" width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EalEKPgIYz5ROMsFS7Vn-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="-120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EalEKPgIYz5ROMsFS7Vn-14" value="pega as chaves com o guarda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EalEKPgIYz5ROMsFS7Vn-15" value="professor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-70" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EalEKPgIYz5ROMsFS7Vn-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EalEKPgIYz5ROMsFS7Vn-21" value="pega as chaves com o monitor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-170" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
